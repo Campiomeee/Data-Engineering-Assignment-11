@@ -134,8 +134,9 @@ If SQL queries return empty results, reduce thresholds (flights >= 100 / >= 1000
 ```
 
 ### Screen Shots
-![](../Data-Engineering-Assignment-11/pics/pc1.png)
-![](../Data-Engineering-Assignment-11/pics/pc2.png)
+![pc1](pics/pc1.png)
+![pc2](pics/pc2.png)
+
 
 ### Analysis
 
